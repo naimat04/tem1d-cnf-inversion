@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/*
+!outputs/.gitkeep
+fortran/*.so
+.ipynb_checkpoints/
