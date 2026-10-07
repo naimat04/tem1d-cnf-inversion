@@ -20,7 +20,7 @@ scripts/
   03_evaluate_single_sounding.py  posterior for one field sounding (68 % / 95 % bands, forward consistency)
   04_evaluate_all_soundings.py    all 8 soundings, pseudo-sections, data-fit grids, reliable-sounding selection
 fortran/                          where to put libtem1d.so (build instructions for TEM1D, not bundled)
-data/  outputs/                   field data go in data/ (not distributed); results are written to outputs/
+data/  outputs/                   data go in data
 ```
 
 ## Setup
